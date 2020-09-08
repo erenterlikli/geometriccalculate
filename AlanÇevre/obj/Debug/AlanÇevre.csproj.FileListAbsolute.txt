@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\obj\Debug\AlanÇevre.Form1.resources
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\obj\Debug\AlanÇevre.Properties.Resources.resources
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\obj\Debug\AlanÇevre.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\obj\Debug\AlanÇevre.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\bin\Debug\AlanÇevre.exe.config
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\bin\Debug\AlanÇevre.exe
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\bin\Debug\AlanÇevre.pdb
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\obj\Debug\AlanÇevre.exe
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\obj\Debug\AlanÇevre.pdb
+C:\Users\Eren\source\repos\AlanÇevre\AlanÇevre\obj\Debug\AlanÇevre.csprojAssemblyReference.cache
